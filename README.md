@@ -33,6 +33,17 @@ En este segundo commit subi, los archivos de '[poncho](https://github.com/argob/
 
 ![Clonado](/imagenes/ima_6.png)
 
+## 5. Actualización,creación de rama y fusionado
+Revisando la consigna me di cuenta que clone en la rama que no era el repositorio de "poncho". Por lo tanto: cree la rama "Proyectos", clone allí el repositorio de Poncho mediante:
+
+```
+git clone --recurse-submodules
+```
+
+luego de eso, fusione esa rama con la principal.
+
+![MERGE final](/imagenes/ima_7.png)
+
 
 # Diferencias entre SUBVERSIONES Y GIT
 
