@@ -1,5 +1,15 @@
-# testGIT
-Este es un repositorio de prueba. Dentro de este repositorio se guarda una copia del master de poncho.
+# testGIT (Este es un repositorio de prueba.)
+
+
+## Descripción
+Este repositorio forma parte parte de un ejercicio para el curso "GIT y herramientas para implementar el control de versiones en aplicaciones para desarrolladores/as", impartido por el [IPAP](https://www.ipap.gba.gob.ar/) para trabajadoras/es de la Provincia de Buenos Aires.
+26/04/2023
+
+## Informaciòn sobre GIT:
+- [git - la guía sencilla](https://rogerdudler.github.io/git-guide/index.es.html?fbclid=IwAR3_kT0p40sUPTa1_XKFsTt7LfCxsEJ8gaQ5YQqVWG6virDruLlQ6Ou57c0)
+- [git-scm](https://git-scm.com/book/es/v2/Ramificaciones-en-Git-¿Qué-es-una-rama%3F)
+- [cheatsheet GIT](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+- [cheatsheet GIT_2](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
 
 ## 1. Creación del repositorio remoto (principal)
 ![Creación del repositorio](/imagenes/ima_1.png)
